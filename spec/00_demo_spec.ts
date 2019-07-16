@@ -7,3 +7,8 @@ describe('writing some tests', () => {
         expect(answer).toBe(25);
     })
 })
+describe('using the snippets', () => {
+    it('is pretty easy', () => {
+
+    });
+});
